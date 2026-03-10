@@ -7,7 +7,7 @@
    ██║      ██║   ██╔═══╝ ╚════██║██╔══╝  ██║
    ██║      ██║   ██║     ███████║███████╗╚██████╗
    ╚═╝      ╚═╝   ╚═╝     ╚══════╝╚══════╝ ╚═════╝
-         I N D U S T R I A L   S E C U R I T Y
+         I N D U S T R I A L   S E C U R I T Y + I A 
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=ICS+%7C+OT+%7C+SCADA+Cybersecurity;Industrial+Control+Systems+Security;Protecting+Critical+Infrastructure;PLC+%7C+HMI+%7C+DCS+Security+Assessments;OT%2FIT+Convergence+%26+Network+Segmentation)](https://git.io/typing-svg)
